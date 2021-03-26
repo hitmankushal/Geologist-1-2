@@ -1,2 +1,2 @@
-# Geologist-1-2
-game
+# angryBirdsStage1
+Stage 1 Angry Birds
